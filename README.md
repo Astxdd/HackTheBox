@@ -1,2 +1,2 @@
 # HackTheBox
-CWES CERTIFICATION PATH
+Just journey in HackTheBox
